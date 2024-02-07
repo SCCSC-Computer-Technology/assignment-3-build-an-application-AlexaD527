@@ -1,0 +1,12 @@
+C:\Users\Hanar\source\repos\theUnitedStatesOfAlexa\bin\Debug\alexstates.mdf
+C:\Users\Hanar\source\repos\theUnitedStatesOfAlexa\bin\Debug\alexstates_log.ldf
+C:\Users\Hanar\source\repos\theUnitedStatesOfAlexa\bin\Debug\theUnitedStatesOfAlexa.exe.config
+C:\Users\Hanar\source\repos\theUnitedStatesOfAlexa\bin\Debug\theUnitedStatesOfAlexa.exe
+C:\Users\Hanar\source\repos\theUnitedStatesOfAlexa\bin\Debug\theUnitedStatesOfAlexa.pdb
+C:\Users\Hanar\source\repos\theUnitedStatesOfAlexa\obj\Debug\theUnitedStatesOfAlexa.csproj.AssemblyReference.cache
+C:\Users\Hanar\source\repos\theUnitedStatesOfAlexa\obj\Debug\theUnitedStatesOfAlexa.Form1.resources
+C:\Users\Hanar\source\repos\theUnitedStatesOfAlexa\obj\Debug\theUnitedStatesOfAlexa.Properties.Resources.resources
+C:\Users\Hanar\source\repos\theUnitedStatesOfAlexa\obj\Debug\theUnitedStatesOfAlexa.csproj.GenerateResource.cache
+C:\Users\Hanar\source\repos\theUnitedStatesOfAlexa\obj\Debug\theUnitedStatesOfAlexa.csproj.CoreCompileInputs.cache
+C:\Users\Hanar\source\repos\theUnitedStatesOfAlexa\obj\Debug\theUnitedStatesOfAlexa.exe
+C:\Users\Hanar\source\repos\theUnitedStatesOfAlexa\obj\Debug\theUnitedStatesOfAlexa.pdb
