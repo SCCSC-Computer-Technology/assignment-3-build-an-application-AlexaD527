@@ -1,1 +1,2 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/S9YMNt0E)
+"I improved my proving skills by creating a user-friendly C# app that smoothly integrates to the sql database. I streamlined the process in my Windows Forms project. Plus, I sprinkled in some helpful comments for anyone peeking at the code. Making it clean and efficient, one line at a time. 
