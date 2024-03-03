@@ -1,0 +1,4 @@
+Code Review for Alexa
+
+I like your use of methods and how you implemented them in your code. That is something that differs from mine. Including more methods in my code is something I should do more!
+I also really like how you included a html file in your code, I did not know that was something you do. I don't have much experience with html so  I found it very interesting and creative. Your code is also very well commented. Awesome job! 
