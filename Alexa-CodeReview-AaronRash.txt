@@ -1,0 +1,14 @@
+Alexa code review by Aaron Rash
+
+I havent seen anyone else use html yet, so that was an interesting choice that stands out.
+
+This is a solid project, so I'm going to have to nitpick a little bit.
+
+A few extra comments wouldn't hurt. While I can read and understand your code, it would certainly speed up the process for an amatuer like me.
+
+You can format the datagridview columns to be more readable. Such as setting the income as currency, or adding commas to the population (10,000 vs 10000)
+	Edit columns > Appearance > DefaultCellStyle > Behavior > Format
+
+Obviously not a requirment, more like a cherry on top
+
+Otherwise the code is fully functional and meets all requirements, great job
