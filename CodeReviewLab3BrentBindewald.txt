@@ -1,0 +1,9 @@
+CPT 206
+
+Brent Bindewald
+
+Lab 3 Code Review:
+
+For this review I downloaded and ran assignment-3-build-an-application-AlexaD527. There were no initial issues when launching the program. The UI is organized cleanly, and effecinetly. All three sorting buttons worked as intended. No other issues when updating table/state information. Overall very well done.
+
+ 
